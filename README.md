@@ -118,8 +118,7 @@ version: "3.7"
 
 services:
  ttsbot:
-    # image: techblog/dockerbot
-    build: https://github.com/t0mer/ttsbot.git
+    image: techblog/ttsbot
     container_name: ttsbot
     restart: always
     labels:
