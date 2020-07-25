@@ -131,7 +131,7 @@ services:
 ```
 Replace API_KEY with your bot token. if you do not have existing bot you can create one
 using the instruction in Step 2 in this article:
-[TelePi – Control your pi with Telegram Bot](https://en.techblog.co.il/2018/08/11/telepi-control-your-pi-with-telegram-bot/) 
+[Bots: An introduction for developers](https://core.telegram.org/bots) 
 
 
 # Donation
