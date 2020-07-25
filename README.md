@@ -130,7 +130,7 @@ services:
       - TTS_BITRATE=128k
 ```
 Replace API_KEY with your bot token. if you do not have existing bot you can create one
-using the instruction in Step 2 in this article:
+using the instruction in this article:
 [Bots: An introduction for developers](https://core.telegram.org/bots) 
 
 
