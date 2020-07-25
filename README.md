@@ -125,7 +125,7 @@ services:
     labels:
       - "com.ouroboros.enable=true"
     environment:
-      - BOT_API_KEY=1346358528:AAFfKdufEfbIben9cj9LZGTdV04WvZsPG5o
+      - BOT_API_KEY=
       - TTS_LANG=he-IL-Asaf-Hebrew
       - TTS_PITCH=100
       - TTS_BITRATE=128k
