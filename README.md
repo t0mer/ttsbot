@@ -1,3 +1,11 @@
+*Please :star: this repo if you find it useful*
+
+<p align="left"><br>
+<a href="https://www.paypal.com/paypalme/techblogil?locale.x=he_IL" target="_blank"><img src="http://khrolenok.ru/support_paypal.png" alt="PayPal" width="250" height="48"></a>
+</p>
+
+
+
 # ttsbot
 
 ttsbot is a [Telepot](https://telepot.readthedocs.io/en/latest/) powerd, easy to use Telegram bot allowing you to convert text to speech
@@ -134,8 +142,4 @@ using the instruction in this article:
 [Bots: An introduction for developers](https://core.telegram.org/bots) 
 
 
-# Donation
-<br>
-If you find this project helpful, you can give me a cup of coffee :) 
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8CGLEHN2NDXDE)
